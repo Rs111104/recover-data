@@ -5,9 +5,9 @@ description = "A TUI to recover overwritten or deleted data."
 authors = ["PabloLec <pablolec@pm.me>"]
 license = "GPL-3.0 License"
 readme = "README.md"
-homepage = "https://github.com/PabloLec/recoverpy"
-repository = "https://github.com/PabloLec/recoverpy"
-documentation = "https://github.com/PabloLec/recoverpy#readme"
+homepage = "https://github.com/Rs111104/recover-data"
+repository = "https://github.com/Rs111104/recover-data"
+documentation = "https://github.com/Rs111104/recover-data#readme"
 keywords = ["data",
     "recovery",
     "search",
